@@ -3,11 +3,11 @@ env
 .Python
 include
 lib
+.sw*
 
 # Python Packages
 *.egg
 *.egg-info
-bin
 build
 dist
 sdist
@@ -32,3 +32,4 @@ pip-log.txt
 *.[oa]
 *.py[co]
 *.rbc
+*.sw*

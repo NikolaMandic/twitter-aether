@@ -2,7 +2,14 @@
 # Flask
 # ----------------------
 flask
-
+lxml
+tweepy
+numpy
+gensim
+pattern
+BeautifulSoup4
+owslib
+moment
 
 # ----------------------
 # Testing
